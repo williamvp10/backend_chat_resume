@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+gunicorn
+motor
+pymongo
+pydantic
+passlib
+python-dotenv
+httpx
+openai
+slack-sdk
